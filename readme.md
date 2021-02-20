@@ -3,17 +3,17 @@ Gives you a volume percentage, left of your search bar. Also adds precise input 
 
 ![Percentage in 3sf beside search bar](img/example.png)
 
-## How to add
+### How to add
 ---
 Add `src/volumePercent.js` to your extensions folder, then enable it in your terminal with `spicetify config extensions volumePercent.js`. To apply, `spicetify apply`.
 
-## Questions
+### Questions
 ---
-### Why is it at the top not the bottom?
+#### Why is it at the top not the bottom?
 I'm too lazy to get it to fit at the bottom
-### Why is the volume to 3 sf and not rounded?
+#### Why is the volume to 3 sf and not rounded?
 I like decimals
-### Why is it so low-effort?
+#### Why is it so low-effort?
 I needed a simple volume indicator and so that's all I made
-### Help
+#### Help
 [Join my discord, I need friends!](https://discord.jrc.ninja)
