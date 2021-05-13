@@ -12,8 +12,6 @@
         setTimeout(VolumePercent, 1000);
         return;
     }
-    let beed = 0
-    let oldVol = prettyVolume()
     const targetNode = document.getElementById('player-volumebar');
     const config = { attributes: true, childList: true, subtree: true };
     const button_vol = document.createElement("button")
